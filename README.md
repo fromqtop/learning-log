@@ -4,7 +4,7 @@
 
 Djangoの基礎を公式教材でインストール、投票Webアプリ作成、管理画面のカスタマイズ、自動テストなどを学習。
 
-<img src="./images/django-tutorial.png" alt="成果物のスクリーンショット" width="400" />　
+<img src="./images/django-tutorial.png" alt="成果物のスクリーンショット" width="700" />　
 
 
 ## 2025/08/29 - 08/30
