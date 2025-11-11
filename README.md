@@ -1,4 +1,11 @@
 # 学習記録
+## 2025/08/29 - 08/30
+[Python初学者のネクストステップ！FastAPIによるWeb API開発講座](fastapi-and-streamlit.png)
+
+基本的なFastAPIの使い方を学習。あわせてStreamlitの利用も経験。
+
+<img src="./images/fastapi-and-streamlit.png" alt="成果物のスクリーンショット" width="400" />　
+
 ## 2025/06/09 - 06/10
 [Next.js Foundations course](https://nextjs.org/learn/dashboard-app)
 
