@@ -1,4 +1,12 @@
 # 学習記録
+## 2025/11/08 - 11/11
+[はじめてのDjangoアプリ作成（公式チュートリアル）](https://docs.djangoproject.com/ja/5.2/intro/tutorial01/)
+
+Djangoの基礎を公式教材でインストール、投票Webアプリ作成、管理画面のカスタマイズ、自動テストなどを学習。
+
+<img src="./images/django-tutorial.png" alt="成果物のスクリーンショット" width="400" />　
+
+
 ## 2025/08/29 - 08/30
 [Python初学者のネクストステップ！FastAPIによるWeb API開発講座](fastapi-and-streamlit.png)
 
@@ -7,7 +15,7 @@
 <img src="./images/fastapi-and-streamlit.png" alt="成果物のスクリーンショット" width="400" />　
 
 ## 2025/06/09 - 06/10
-[Next.js Foundations course](https://nextjs.org/learn/dashboard-app)
+[Next.js Foundations course（公式チュートリアル）](https://nextjs.org/learn/dashboard-app)
 
 Next.jsの基本をひととおり学習でき、DB（Postgres）、Vercelへのデプロイ等幅広くWebアプリ開発を学習できた。
 
@@ -49,10 +57,10 @@ React基礎学習後の実践として実施。JavaScriptで作成する講座�
 <img src="./images/react-youtube-tutorial.png" alt="成果物のスクリーンショット" width="300" />
 
 
-## 2025/05/16 - 26
+## 2025/05/16 - 05/26
 [【2024年最新】React(v18)完全入門ガイド｜Hooks、Next14、Redux、TypeScript](https://www.udemy.com/course/react-complete-guide)  
 
-上記udemy橋座でReactの基礎を学習。
+udemyでReactの基礎を学習。
 viteによるプロジェクト作成、Reactコンポーネントの作成方法、基本的なhooksの使用方法、スタイリング、およびTypeScriptの基礎を学習。
 (テスト, Redux, Next.jsの学習は未了）
 
