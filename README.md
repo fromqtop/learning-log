@@ -4,7 +4,7 @@
 
 Next.jsの基本をひととおり学習でき、DB（Postgres）、Vercelへのデプロイ等幅広くWebアプリ開発を学習できた。
 
-<img src="./images/nextjs-tutorial.jpg" alt="成果物のスクリーンショット" width="300" />　
+<img src="./images/nextjs-tutorial.jpg" alt="成果物のスクリーンショット" width="400" />　
 
 ## 2025/6/5
 [【Reactアプリ開発】3種類のReactアプリケーションを構築して、Reactの理解をさらに深めるステップアップ講座](
