@@ -12,14 +12,33 @@ Djangoの基礎を公式教材でインストール、投票Webアプリ作成�
 
 基本的なFastAPIの使い方を学習。あわせてStreamlitの利用も経験。
 
-<img src="./images/fastapi-and-streamlit.png" alt="成果物のスクリーンショット" width="400" />　
+<img src="./images/fastapi-and-streamlit.png" alt="成果物のスクリーンショット" width="500" />　
+
+
+## 2025/07/04 - 07/31
+React, TypeScriptの学習も兼ねて、GoogleスプレッドシートをWebアプリ化するツールを作成。
+uiにはshadcn/uiを初めて使用。
+
+[Ticket.SS](https://github.com/fromqtop/Ticket.SS)
+
+<img src="https://github.com/fromqtop/Ticket.SS/raw/main/docs/webapp.png" alt="成果物のスクリーンショット" width="800" />　
+
+
+## 2025/06/11 - 07/03
+Google Apps Scriptをローカル開発する方法を調査。
+TypeScript、ReactでGASのWebアプリを開発するための手順をまとめて公開。
+特に、ローカル環境でGAS独自の関数（google.script.run、google.script.history）を再現することにかなり苦戦した。
+
+[Note記事: Google Apps ScriptのWebアプリをReact/TypeScriptでローカル開発する](https://note.com/ichi3270/n/n70dcf6ccc545)
+
 
 ## 2025/06/09 - 06/10
 [Next.js Foundations course（公式チュートリアル）](https://nextjs.org/learn/dashboard-app)
 
 Next.jsの基本をひととおり学習でき、DB（Postgres）、Vercelへのデプロイ等幅広くWebアプリ開発を学習できた。
 
-<img src="./images/nextjs-tutorial.jpg" alt="成果物のスクリーンショット" width="400" />　
+<img src="./images/nextjs-tutorial.jpg" alt="成果物のスクリーンショット" width="500" />　
+
 
 ## 2025/6/5
 [【Reactアプリ開発】3種類のReactアプリケーションを構築して、Reactの理解をさらに深めるステップアップ講座](
@@ -29,9 +48,10 @@ React基礎学習後の実践として実施。JavaScriptで作成する講座�
 これまでハンズオンを繰り返してきたため、基本的なReactコーディングは躓きなくできるようになってきた。  
 今回はReactに加え、外部APIの利用、Firebase・ローカルストレージの利用などを経験できた。
 
-<img src="./images/react-udemy-3project-1.jpg" alt="成果物のスクリーンショット" width="300" />　
-<img src="./images/react-udemy-3project-2.jpg" alt="成果物のスクリーンショット" width="300" />　
-<img src="./images/react-udemy-3project-3.jpg" alt="成果物のスクリーンショット" width="300" />　
+<img src="./images/react-udemy-3project-1.jpg" alt="成果物のスクリーンショット" width="400" />　
+<img src="./images/react-udemy-3project-2.jpg" alt="成果物のスクリーンショット" width="400" />　
+<img src="./images/react-udemy-3project-3.jpg" alt="成果物のスクリーンショット" width="400" />　
+
 
 ## 2025/05/30
 [Reactに入門した人のためのもっとReactが楽しくなるステップアップコース完全版](https://www.udemy.com/course/react_stepup/)
@@ -41,14 +61,14 @@ React基礎学習後の実践として実施。JavaScriptで作成する講座�
 そのままでは動かない部分が多く、公式ドキュメントを見て解決したことが問題解決の練習になった。
 
 <img src="./images/react-udemy-stepup-1.png" alt="成果物のスクリーンショット" width="300" />
-<img src="./images/react-udemy-stepup-2.png" alt="成果物のスクリーンショット" width="300" />
+<img src="./images/react-udemy-stepup-2.png" alt="成果物のスクリーンショット" width="400" />
 
 
 ## 2025/05/28
 [モダンJavaScriptの基礎から始める挫折しないためのReact入門](udemy.com/course/modern_javascipt_react_beginner/)
 
 React基礎学習後の実践として実施。JavaScriptで作成する講座だったが、練習のためTypeScriptで実装。
-<img src="./images/react-udemy-tutorial.png" alt="成果物のスクリーンショット" width="300" />
+<img src="./images/react-udemy-tutorial.png" alt="成果物のスクリーンショット" width="400" />
 
 ## 2025/05/27
 [【React入門】完全初心者OK！１から簡単なTodoアプリを作ってReactの１歩を踏み出してみよう - Reactチュートリアル~](https://www.youtube.com/watch?v=nRCNL9T3J98)  
@@ -64,3 +84,16 @@ udemyでReactの基礎を学習。
 viteによるプロジェクト作成、Reactコンポーネントの作成方法、基本的なhooksの使用方法、スタイリング、およびTypeScriptの基礎を学習。
 (テスト, Redux, Next.jsの学習は未了）
 
+
+## 2025/04/11 - 04/20
+はじめてGoogle Apps Scriptのライブラリを作成。
+
+[SSSQL スプレッドシートをSQL風に操作するGASライブラリ](https://web-breeze.net/gas-spreadsheet-sql-lib/)
+
+
+## 2019/09 -
+業務効率化等のため、Google Apps Scriptや、HTML/CSS/JavaScript、その他ノーコードツール等を独学。
+WordPressブログを開設し、発信を行う。  
+[微風 on the web ...](https://web-breeze.net/)
+
+その他、趣味として[アプリ開発](https://github.com/fromqtop/GuitarFletboardMaster)にチャレンジしたり、Paizaスキルチェック（Sランク）、Progateやドットインストール等でプログラミングを学習。
